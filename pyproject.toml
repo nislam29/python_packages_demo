@@ -1,0 +1,7 @@
+[project]
+name = "demo-python"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = ["boto3>=1.41.5", "setuptools>=80.9.0"]
