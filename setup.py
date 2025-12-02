@@ -10,7 +10,7 @@ with open("requirements.txt") as f:
 
 
 setup(
-    name="my_package",
+    name="python_packages_demo",
     version="0.1.0",
     include_package_data=True,
     python_requires=">=3.11",
